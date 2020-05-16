@@ -3,7 +3,6 @@
   <img src="src/assets/netflix-logo.png" width="150">
 <br>
 <br>
-Netflix React Native
 </h1>
 
 <p align="center">Recreating Netflix React Native with styled components</p>
@@ -16,6 +15,10 @@ Netflix React Native
 </div>
 <br>
 <br>
+
+
+<h1 align="center">
 Credits
 </h1>
 <p align="center"><a href="https://github.com/reginaldop">Reginaldo Ponciano</a></p>
+
